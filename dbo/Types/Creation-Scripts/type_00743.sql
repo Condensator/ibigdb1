@@ -1,0 +1,1 @@
+CREATE TYPE [dbo].[type_00743] FROM [bigint] NOT NULL
